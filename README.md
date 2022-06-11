@@ -12,5 +12,5 @@
                   allows for the utilization of GPU/CPU resources to run resource-intensive algorithms.
               (5) requirements.txt
 > #### Project-work: Python in Pandas dataframe
-> #### Classifiers: various machine learning + neural networks
+> #### Classifiers: various machine learning + neural networks models
 > #### Dataset: Not shared for reasons of confidentiality.
